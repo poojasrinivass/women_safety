@@ -2,7 +2,7 @@
 # women_safety
 
 <p align="center">
-  <img src="./images/1.jpg">
+  <img src="./results/1.jpg">
 </p>
 
 <p align="center">
